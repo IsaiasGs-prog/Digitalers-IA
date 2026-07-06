@@ -14,3 +14,11 @@ Print("Hola Mundo")
 mas texto
 
 ## Diagrama
+
+
+```graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
